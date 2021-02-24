@@ -1,0 +1,9 @@
+git init               初始化
+git add -A         添加所有文件
+git config --global credential.helper   记住用户名密码
+git config --global  user.email  "你的邮箱"
+git config --global user.name "你的用户名"
+git commit -m "first commit"     提交，"first commit" 是自定义的说明性文字
+git branch -M main      提交代码到main分支
+git remote add origin https://github.com/li-huipu/ApiAutoTest.git     对应你的代码仓库
+git push -u origin main    推送代码到main分支

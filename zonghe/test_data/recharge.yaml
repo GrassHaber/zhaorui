@@ -1,0 +1,5 @@
+#登录数据
+- regdata: {"mobilephone":"18066668888","pwd":"abcd_1"}
+  logindata: {"mobilephone":"18066668888","pwd":"abcd_1"}
+  recdata: {"mobilephone":"18066668888","amount":10000.00}
+  expect: {"status":1,"code":"10001","msg":"充值成功"}
