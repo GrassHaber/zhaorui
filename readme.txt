@@ -1,3 +1,3 @@
 Git is a version control system
-Git is a free software
+Git is developed by linus
 Git is so good.
